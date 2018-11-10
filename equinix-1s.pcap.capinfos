@@ -1,0 +1,29 @@
+File name:           equinix-1s.pcap
+File type:           Wireshark/tcpdump/... - nanosecond pcap
+File encapsulation:  Raw IP
+File timestamp precision:  nanoseconds (9)
+Packet size limit:   file hdr: 65536 bytes
+Packet size limit:   inferred: 20 bytes - 80 bytes (range)
+Number of packets:   2.654 k
+File size:           166 MB
+Data size:           2.712 MB
+Capture duration:    4,021742000 seconds
+First packet time:   2016-01-21 11:56:41,404160000
+Last packet time:    2016-01-21 11:56:45,425902000
+Data byte rate:      674 MBps
+Data bit rate:       5.396 Mbps
+Average packet size: 1021,83 bytes
+Average packet rate: 660 kpackets/s
+SHA256:              cd373d4d6c4361519b9cc536b681f4afaea8087af9b822e048ed3969d9d43b86
+RIPEMD160:           a0d51b4e6c134161ff9d6febfa649eb8434c00fc
+SHA1:                07a440599bf1cffbdcaad9d1d4852a74ac9696a2
+Strict time order:   True
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Raw IP (7 - rawip)
+                     Capture length = 65536
+                     Time precision = nanoseconds (9)
+                     Time ticks per second = 1000000000
+                     Time resolution = 0x09
+                     Number of stat entries = 0
+                     Number of packets = 2654928
